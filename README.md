@@ -23,4 +23,4 @@ I'm doing Bachelor’s degree in **Computer Information and Systems Engineering*
  
  💬 Ask me about:  **html, CSS, Python, JavaScript, MySQL and Cloud Computing.**
  
- 📫 How to reach me: hani.marium@gmail.com
+ 📫 How to reach me: hani.marium@gmail.com and https://www.linkedin.com/in/umme-hani-bb22061b9/
