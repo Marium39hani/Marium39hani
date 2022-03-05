@@ -1,6 +1,8 @@
-                                  **  # Hi there 👋 I'm Umm e hani*
-                            ##I am an aspiring Full Stack Web Developer and Data Science Learner.  
-Marium39hani/Marium39hani is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
+# Hi there 👋 I'm Umm e hani*
+## I am an aspiring Full Stack Web Developer and Data Science Learner.  
+<!-- 
+Marium39hani/Marium39hani is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.-->
+
 **About me:**
 
 I'm doing Bachelor’s degree in **Computer Information and Systems Engineering** from the **NED University of Engineering and Technology**, Karachi, Pakistan. I like to explore new technologies and develop software solutions.
