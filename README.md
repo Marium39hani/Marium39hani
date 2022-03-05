@@ -1,13 +1,14 @@
-                                            **  # Hi there 👋 I'm Umm e hani**
+                                  **  # Hi there 👋 I'm Umm e hani**
                                                 
-                            ##I am an aspiring Full Stack Web Developer and Data Science Learner.
-** Hi there 👋 I'm Umm e hani**                           
+                            ##I am an aspiring Full Stack Web Developer and Data Science Learner.                       
 **About me:**
 
-I'm doing Bachelor’s degree in Computer Information and Systems Engineering from the NED University of Engineering and Technology, Karachi, Pakistan. I like to explore new technologies and develop software solutions.
+I'm doing Bachelor’s degree in **Computer Information and Systems Engineering** from the **NED University of Engineering and Technology**, Karachi, Pakistan. I like to explore new technologies and develop software solutions.
 
 :point_right: Coding enthusiastic
+
 :point_right: Web Developer
+
 :point_right: Open CV and ML Learner
 
 
