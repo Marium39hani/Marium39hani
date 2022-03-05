@@ -22,11 +22,13 @@ I'm doing Bachelor’s degree in Computer Information and Systems Engineering fr
  
  📫 How to reach me: hani.marium@gmail.com
  
- Fun fact: Playing Games, Traveling, Hackathon.
+ 
 
 :zap:Tech Stack:
 
 C C++ Java Python HTML CSS Bootstrap JavaScript  Visual Studio Canva GitHub Git
+![image](https://user-images.githubusercontent.com/66160969/156897384-515d3367-fd41-4247-8092-76d50afb8eab.png)
+![image](https://user-images.githubusercontent.com/66160969/156897406-c5dc6cb7-89f7-4778-a359-c5da58001aea.png)
 
 
 
