@@ -14,6 +14,8 @@ I'm doing Bachelor’s degree in **Computer Information and Systems Engineering*
 
 :point_right: Open CV and ML Learner
 
+![](https://komarev.com/ghpvc/?username=Marium39hani&color=yellowgreen)
+
 
  🔭 I’m currently working on @Exploratory Data Analysis. 
  
