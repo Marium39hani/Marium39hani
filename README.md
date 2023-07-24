@@ -23,6 +23,6 @@ I'm doing Bachelor’s degree in **Computer Information and Systems Engineering*
  
  :woman_technologist:  All of my projects are available at https://github.com/Marium39hani?tab=repositories 
  
- 💬 Ask me about:  **html, CSS, Python, JavaScript, MySQL and Cloud Computing.**
+ 💬 Ask me about:  **Html, CSS, Python, JavaScript, MySQL, Machine Learning, Artificial Intelligence and Cloud Computing.**
  
  📫 How to reach me: hani.marium@gmail.com and https://www.linkedin.com/in/umme-hani-bb22061b9/
