@@ -6,7 +6,7 @@ Marium39hani/Marium39hani is a ✨special ✨ repository that you can use to add
 
 **About me:**
 
-I'm doing Bachelor’s degree in **Computer Information and Systems Engineering** from the **NED University of Engineering and Technology**, Karachi, Pakistan. I like to explore new technologies and develop software solutions.
+I'm pursuing Bachelor’s degree in **Computer Information and Systems Engineering** from the **NED University of Engineering and Technology**, Karachi, Pakistan. I like to explore new technologies and develop software solutions.
 
 :point_right: Coding enthusiastic
 
