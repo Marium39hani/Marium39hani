@@ -1,6 +1,6 @@
  <h1 align="center">Hi there 👋, I'm Umm e hani</h1>
 
-<h3 align="center">An aspiring Software Engineer and Data Science Enthusiast</h3>
+<h3 align="center">An Aspiring Software Engineer and Data Science Enthusiast</h3>
 <!-- 
 Marium39hani/Marium39hani is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.-->
 
